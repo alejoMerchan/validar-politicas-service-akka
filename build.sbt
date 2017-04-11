@@ -1,4 +1,4 @@
-name := "validar-politicas-service"
+name := "validar-politicas-service-akka"
 
 version := "1.0"
 
